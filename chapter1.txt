@@ -2,5 +2,7 @@ hi hi a time, in a town named "Init", lived an enthusiastic explorer named Git.
 Git was well-known for his curiosity and eagerness to learn.
 He had one dream - to explore the mysterious world of Version Control.
 edit
+vbnetCopy code
+Git was eager to explore new places.
 
 hiii
