@@ -14,3 +14,5 @@ He knew the journey wouldn't be easy, but he was ready.
 Git was ready for his journey, prepared to face the trials ahead.
 >>>>>>> 75c7946 (fix)
 He was doing this for his village, for Init.
+
+The first challenge Git faced was understanding the concepts of Version Control.
