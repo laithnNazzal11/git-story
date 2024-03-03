@@ -1,5 +1,6 @@
 Chapter 3: Git's First Step into the World of Version Control
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git was ready for his journey, prepared to face the trials ahead.
 
 
@@ -9,4 +10,7 @@ Git took a deep breath as he stepped into the world of Version Control.
 He knew the journey wouldn't be easy, but he was ready.
 >>>>>>> 87434ff (two)
 
+=======
+Git was ready for his journey, prepared to face the trials ahead.
+>>>>>>> 75c7946 (fix)
 He was doing this for his village, for Init.
